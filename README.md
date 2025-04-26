@@ -10,7 +10,7 @@ This project is developed using **Angular 17**, styled with **PrimeNG** componen
 ## 🚀 Tech Stack
 
 - **Frontend:** Angular 17 (PrimeNG, SweetAlert2, Chart.js)
-- **Backend:** Node.js, Express.js (separate repository)
+- **Backend:** Node.js, Express.js 
 - **Database:** MongoDB
 
 > **Note:** This repository contains both the **frontend** part &  the **backend**.
