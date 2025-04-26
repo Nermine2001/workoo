@@ -13,7 +13,7 @@ This project is developed using **Angular 17**, styled with **PrimeNG** componen
 - **Backend:** Node.js, Express.js (separate repository)
 - **Database:** MongoDB
 
-> **Note:** This repository is only for the **frontend** part.
+> **Note:** This repository contains both the **frontend** part &  the **backend**.
 
 ---
 
