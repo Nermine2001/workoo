@@ -1,4 +1,4 @@
-# Workoo — Freelance Platform Frontend
+# Workoo — Freelance Platform
 
 Welcome to the frontend of **Workoo** 👨‍💻✨ —  
 A freelance platform that connects clients with professional freelancers, built with the **MEAN Stack**.
