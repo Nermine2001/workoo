@@ -1,6 +1,6 @@
 # Workoo — Freelance Platform
 
-Welcome to the frontend of **Workoo** 👨‍💻✨ —  
+Welcome to the full stack of **Workoo** 👨‍💻✨ —  
 A freelance platform that connects clients with professional freelancers, built with the **MEAN Stack**.
 
 This project is developed using **Angular 17**, styled with **PrimeNG** components and enhanced with **SweetAlert2** for beautiful alerts and modals.
@@ -41,7 +41,7 @@ npm install typescript@5.2 --save-dev
 ## 📥 Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/your-organization/workoo-frontend.git
+git clone https://github.com/Nermine2001/workoo.git
 cd frontend
 ```
 3. Install project dependencies
